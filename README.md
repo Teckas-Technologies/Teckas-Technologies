@@ -1,6 +1,9 @@
 # Welcome to Teckas Technologies 👋
 
-![Teckas Technologies Banner](https://drive.google.com/uc?export=view&id=1mNI6i38iS1vwihtWn16raddVWvY5Synt) 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1mNI6i38iS1vwihtWn16raddVWvY5Synt" alt="Teckas Technologies Banner" width="800">
+</div>
+
 
 ## 🚀 About Us
 
